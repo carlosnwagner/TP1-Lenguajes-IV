@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Sans-serif;
+    margin:20px;
+}
+#preview {
+    margin-top: 20px;
+    max-width: 400px;
+    max-height: 400px;
+    display: none;
+    border: 2px solid #cccccc;
+    padding: 5px;
+    border-radius: 8px;
+}
+#mensaje {
+    color:red;
+    font-weight: bold;
+    margin-top: 10px;
+}
